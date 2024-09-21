@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "description": "Personal site for Vanessa Coles (myself). Built with Remix, TypeScript, TailwindCSS, Markdocs, and more.",
+      "link": "https://github.com/vcolesdev/vcolesdev-site",
+      "name": "Vanessa Coles Site",
+      "slug": "vcolesdev-site",
+      "tags": ["remix", "typescript", "tailwindcss", "markdocs"]
+    },
+    {
+      "id": "2",
+      "description": "Scrapes data from the San Diego Farmers Bureau website and saves farm data to JSON format.",
+      "link": "https://github.com/vcolesdev/py-sdfarms-scraper",
+      "name": "SD Farms Scraper & Automation",
+      "slug": "py-sdfarms-scraper",
+      "tags": ["python", "selenium", "automation", "web scraping"]
+    },
+    {
+      "id": "3",
+      "description": "NextJS TypeScript CRUD app that manages clients' information in a simple dashboard interface.",
+      "link": "https://github.com/vcolesdev/nextjs-clients-app_v1",
+      "name": "NextJS Clients App",
+      "slug": "nextjs-clients-app_v1",
+      "tags": ["nextjs", "typescript", "tailwindcss", "api", "crud"]
+    },
+    {
+      "id": "4",
+      "description": "A custom Kanban board built with React and Vite. Features drag and drop functionality and more.",
+      "link": "https://github.com/vcolesdev/vcolesdev-sprout",
+      "name": "Sprout Kanban Board",
+      "slug": "vcolesdev-sprout",
+      "tags": ["react", "vite", "typescript", "kanban", "dnd"]
+    },
+    {
+      "id": "5",
+      "description": "A simple API that converts RSS feeds to JSON format and downloads the results.",
+      "link": "https://github.com/vcolesdev/vcolesdev-convert-rss-to-json",
+      "name": "RSS to JSON API",
+      "slug": "vcolesdev-convert-rss-to-json",
+      "tags": ["nodejs", "express", "rss", "rss-parser", "json"]
+    },
+    {
+      "id": "6",
+      "description": "WIP. Custom components for a personal project, Mizu Components. Built with React and Storybook.",
+      "link": "https://github.com/vcolesdev/sb-mizu-design-system",
+      "name": "Mizu Storybook Components",
+      "slug": "sb-mizu-design-system",
+      "tags": ["react", "storybook", "typescript", "components"]
+    }
+  ]
+}

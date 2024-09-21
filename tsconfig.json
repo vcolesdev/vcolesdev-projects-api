@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+      "es5", "es6", "dom", "dom.iterable"
+    ],
+    "module": "nodenext",
+    "outDir": "./dist",
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "es2017",
+  },
+  "include": ["*.ts", "src/**/*.ts"]
+}
