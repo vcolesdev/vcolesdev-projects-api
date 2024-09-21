@@ -2,7 +2,14 @@
 
 ## Description
 
+WIP. A simple API for managing a list of personal projects from [vcolesdev.me](https://vcoles.me).
+
 ## Features
+
+Will be adding more endpoints for fetching individual projects, etc.
+
+- `/projects` endpoint
+- `/rxdb/projects` endpoint
 
 ## Built With
 
